@@ -1,28 +1,24 @@
-# Project 5 - BeReal Clone
+# Project 6 - BeReal Clone Part 2
 
 Submitted by: Mardan Mahmut
 
 BeReal Clone is an app that allows users to post pictures that capture what they are doing in the moment once a day.
 
-Time spent: 6 hours spent in total (8 after the trying ti solve techincal issues with my laptop and my github key not working host key not working properly)
+Time spent: 7 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] User can register a new account
-- [x] User can log in with newly created account
-- [x] App has a feed of posts when user logs in
-- [x] User can upload a new post which takes in a picture from photo library and a caption	
+- [x] User can launch camera to take photo instead of photo library
+- [x] User session persists when application is closed and relaunched
+- [x] Users are able to log out and return to sign in page
+- [x] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ ] Users can see location and time of photo upload in the feed	
-- [x] User is able to logout
-- [x] User stays logged in when app is closed and open again	
-
+- [ ] User receive notifcation when it is time to post
+- [ ] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
 
@@ -34,14 +30,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with Kap and uploaded to GIPHY:
 
-https://giphy.com/gifs/Wv6ue9GkNeOXbMjbZl
+https://giphy.com/gifs/4FPvYYzn8W1YNuDL98
 
 ## Notes
-
-Overall the app was very fun to build. However, when I was about to upload close to midnight, my computer shutdown to due an "icu" error,
-which thankfully disappeared after starting it back up. In addition, I could not get my code to properly push into the the repo I made for it. 
-I was able to solve this and other issues my computer was having in about an hour and 30 minutes (so I am really hoping this will not count as a
-late assignment, as I had all the logic and functionally done, and especially because I have already used up my two late assignments).
 
 ## License
 
