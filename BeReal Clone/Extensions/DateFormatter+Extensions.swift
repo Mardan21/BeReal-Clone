@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import ParseSwift
 
 extension DateFormatter {
     static var postFormatter: DateFormatter = {

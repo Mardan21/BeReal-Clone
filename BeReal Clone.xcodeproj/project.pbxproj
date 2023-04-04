@@ -17,7 +17,6 @@
 		D329BCDD29D2C1E400704DF2 /* DateFormatter+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D329BCDC29D2C1E400704DF2 /* DateFormatter+Extensions.swift */; };
 		D34DEC3A29D2555300DA7BEC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DEC3929D2555300DA7BEC /* AppDelegate.swift */; };
 		D34DEC3C29D2555300DA7BEC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DEC3B29D2555300DA7BEC /* SceneDelegate.swift */; };
-		D34DEC3E29D2555300DA7BEC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34DEC3D29D2555300DA7BEC /* ViewController.swift */; };
 		D34DEC4129D2555300DA7BEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D34DEC3F29D2555300DA7BEC /* Main.storyboard */; };
 		D34DEC4329D2555600DA7BEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D34DEC4229D2555600DA7BEC /* Assets.xcassets */; };
 		D34DEC4629D2555600DA7BEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D34DEC4429D2555600DA7BEC /* LaunchScreen.storyboard */; };
@@ -39,7 +38,6 @@
 		D34DEC3629D2555300DA7BEC /* BeReal Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BeReal Clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D34DEC3929D2555300DA7BEC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D34DEC3B29D2555300DA7BEC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D34DEC3D29D2555300DA7BEC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D34DEC4029D2555300DA7BEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D34DEC4229D2555600DA7BEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D34DEC4529D2555600DA7BEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -139,7 +137,6 @@
 				D34DEC4D29D2B57400DA7BEC /* Models */,
 				D34DEC3929D2555300DA7BEC /* AppDelegate.swift */,
 				D34DEC3B29D2555300DA7BEC /* SceneDelegate.swift */,
-				D34DEC3D29D2555300DA7BEC /* ViewController.swift */,
 				D34DEC3F29D2555300DA7BEC /* Main.storyboard */,
 				D34DEC4229D2555600DA7BEC /* Assets.xcassets */,
 				D34DEC4429D2555600DA7BEC /* LaunchScreen.storyboard */,
@@ -281,7 +278,6 @@
 				D329BCD029D2BA9300704DF2 /* LoginViewController.swift in Sources */,
 				D329BCD229D2BBBE00704DF2 /* SignUpViewController.swift in Sources */,
 				D34DEC4F29D2B58E00DA7BEC /* User.swift in Sources */,
-				D34DEC3E29D2555300DA7BEC /* ViewController.swift in Sources */,
 				D329BCDA29D2C06400704DF2 /* PostViewController.swift in Sources */,
 				D34DEC3A29D2555300DA7BEC /* AppDelegate.swift in Sources */,
 				D329BCD729D2BF6900704DF2 /* PostCell.swift in Sources */,
